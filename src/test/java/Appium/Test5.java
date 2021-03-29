@@ -12,6 +12,9 @@ public class Test5 extends BaseClass{
 
         driver.get("www.amazon.com ");
         driver.get("www.amazon.com ");
+        driver.get("www.amazon.com ");
+
 
     }
 }
+
