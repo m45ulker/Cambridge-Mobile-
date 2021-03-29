@@ -11,6 +11,7 @@ public class Test5 extends BaseClass{
         AndroidDriver driver = lunchAndroid();
 
         driver.get("www.amazon.com ");
+        driver.get("www.amazon.com ");
 
     }
 }
